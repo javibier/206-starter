@@ -9,7 +9,7 @@ html, body {
 }
 #wrapper {
 	/* Change the width to 90% and add max-width:960px; */
-  width: 960px;
+  width: 90%;
   margin: auto;
 }
 
